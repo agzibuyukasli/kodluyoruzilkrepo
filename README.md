@@ -27,4 +27,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için lütfen önce neyi d
  [MIT](https://choosealicense.com/licenses/mit/)
 
 
- ![github](figures/github.png)
+
