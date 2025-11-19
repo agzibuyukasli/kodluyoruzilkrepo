@@ -10,12 +10,14 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 Öncelikle projeyi klonlayın. (Buraya sizin reponuzdan aldığınız link gelecek.)
 git clone https://github.com/agzibuyukasli/kodluyoruzilkrepo.git
 
+
 ## Usage
 
 Projeyi klonladıktan sonra Visual Studio Code programını açınız.
 Linux için: 
 
-'''cd kodluyoruzilkrepo code .'''
+cd kodluyoruzilkrepo \
+code .
 
 ## Contributing
 
@@ -23,3 +25,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için lütfen önce neyi d
 
 ## License
  [MIT](https://choosealicense.com/licenses/mit/)
+
+
+ ![github](figures/github.png)
